@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Arthurius",
+        "power": "Telepathy",
+        "weapon": "sword",
+        "description": "Really smart but grades are pretty low, which is surprising because he should be able to read his professor's minds during a test. Maybe he chooses not to. He's also super-friendly and kind."
+    },
+    {
+        "name": "Fantasia",
+        "power": "Telekinesis",
+        "weapon": "Crossbow",
+        "description": "Shy and likes to oplay with talking raccoons."
+    },
+    {
+        "name": "Obsidian",
+        "power": "Invisibility",
+        "weapon": "Spear",
+        "description": "No one knows for sure who obsidian really is. This boy just popped out of nowhere one day. Many people suspect that he's always been around, silently staring at everyone."
+    }
+]
